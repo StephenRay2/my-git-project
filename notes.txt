@@ -1,0 +1,4 @@
+Git basics:
+- git init: Initialize repo
+- git add: Stage files
+- git commit: Save changes
