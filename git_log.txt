@@ -1,0 +1,6 @@
+(base) stephenray@Stephens-MacBook-Pro-6 my-git-project % git log --oneline --graph
+* 63bc6b1 (HEAD -> main, origin/main, origin/HEAD) Updated README with modification note
+* fe94c85 Added notes.txt with basic commands
+* d07bc80 Initial commit: Added README.md
+* 02b2279 Initial commit
+(base) stephenray@Stephens-MacBook-Pro-6 my-git-project % 
